@@ -25,3 +25,6 @@ Created with the purpose of using with OBS.
 	  color: #dfe6e9;
 }
 ```
+
+## CREDIT
+[Mysterio @ D2EMU](https://www.d2emu.com/) - Thanks for the API
